@@ -1,0 +1,6 @@
+{
+  "jade.ars_nouveau_jade.source_amount": "ソース : %d/%d",
+  "jade.ars_nouveau_jade.candidate": "候補一覧",
+  "jade.ars_nouveau_jade.source_cost": "必要ソース : %d",
+  "jade.ars_nouveau_jade.upgrade": "アップグレード : Tier %d → Tier %d"
+}
